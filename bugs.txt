@@ -1,0 +1,13 @@
+BUGS:
+
+1. isEmpty()
+    this method always returns true regardless of if there are any nodes in the list or not.
+
+2. addBack()
+    this method acts as addFront(). Instead of adding to the back of the list it adds the node to the front.
+
+3. removeBack()
+    this method does nothing. It does not remove anything from the list and does not change it in any way.
+
+4. removeFront()
+    this method does nothing. It does not remove anything from the list and does not change it in any way.
